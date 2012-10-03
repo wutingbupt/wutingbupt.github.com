@@ -4,7 +4,7 @@
  <title>Mister Bleigh</title>
  <link href="http://mbleigh.github.com/atom.xml" rel="self"/>
  <link href="http://www.mbleigh.com/"/>
- <updated>2012-10-03T17:21:58+08:00</updated>
+ <updated>2012-10-03T17:44:46+08:00</updated>
  <id>http://www.mbleigh.com/</id>
  <author>
    <name>Michael Bleigh</name>
@@ -35,11 +35,11 @@
 
 &lt;p&gt;This is an H1&lt;/p&gt;
 
-&lt;h1 id='id5'&gt;/=============&lt;/h1&gt;
+&lt;h1 id='id1'&gt;/=============&lt;/h1&gt;
 
 &lt;p&gt;This is an H2&lt;/p&gt;
 
-&lt;h2 id='id6'&gt;/&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;-&lt;/h2&gt;
+&lt;h2 id='id2'&gt;/&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;-&lt;/h2&gt;
 
 &lt;p&gt;2.&lt;/p&gt;
 
