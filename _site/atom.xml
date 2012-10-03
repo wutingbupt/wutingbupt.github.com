@@ -4,13 +4,91 @@
  <title>Mister Bleigh</title>
  <link href="http://mbleigh.github.com/atom.xml" rel="self"/>
  <link href="http://www.mbleigh.com/"/>
- <updated>2012-10-03T14:13:58+08:00</updated>
+ <updated>2012-10-03T17:21:58+08:00</updated>
  <id>http://www.mbleigh.com/</id>
  <author>
    <name>Michael Bleigh</name>
    <email>mbleigh@mbleigh.com</email>
  </author>
  
+ 
+ <entry>
+   <title>MarkDown Language Basic</title>
+   <link href="http://www.mbleigh.com/2012/10/03/technical-markdown-basic.html"/>
+   <updated>2012-10-03T00:00:00+08:00</updated>
+   <id>http://mbleigh.com/2012/10/03/technical-markdown-basic</id>
+   <content type="html">&lt;h1 id='markdown_language_basic'&gt;MarkDown Language Basic&lt;/h1&gt;
+
+&lt;p&gt;After server months delay, my personal &lt;span&gt;blog&lt;/span&gt;:(http://wutingbupt.github.com/blog) was successfully created.&lt;/p&gt;
+
+&lt;p&gt;And now, it is time for me to learn some basic knowledge about markdown, so that I can continue with my blog.&lt;/p&gt;
+
+&lt;p&gt;Ok, before we start, let&amp;#8217;s introduce following key word:&lt;/p&gt;
+
+&lt;p&gt;\ backslash &lt;br /&gt;` backtick &lt;br /&gt;* asterisk &lt;br /&gt;_ underscore &lt;br /&gt;{} curly braces &lt;br /&gt;&lt;span /&gt; square brackets &lt;br /&gt;() parentheses &lt;br /&gt;# hash mark &lt;br /&gt;+ plus sign &lt;br /&gt;- minus sign (hyphen) &lt;br /&gt;. dot &lt;br /&gt;! exclamation mark&lt;/p&gt;
+
+&lt;h2 id='how_to_create_headers'&gt;How to create headers&lt;/h2&gt;
+
+&lt;p&gt;Currently, there are two ways.&lt;/p&gt;
+
+&lt;p&gt;1.&lt;/p&gt;
+
+&lt;p&gt;This is an H1&lt;/p&gt;
+
+&lt;h1 id='id5'&gt;/=============&lt;/h1&gt;
+
+&lt;p&gt;This is an H2&lt;/p&gt;
+
+&lt;h2 id='id6'&gt;/&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;-&lt;/h2&gt;
+
+&lt;p&gt;2.&lt;/p&gt;
+
+&lt;h1 id='_this_is_an_h1'&gt;# This is an H1&lt;/h1&gt;
+
+&lt;h2 id='_this_is_an_h2'&gt;## This is an H2&lt;/h2&gt;
+
+&lt;h6 id='_this_is_an_h6'&gt;###### This is an H6&lt;/h6&gt;
+
+&lt;p&gt;So for me, the second way is more easier :)&lt;/p&gt;
+
+&lt;h2 id='how_to_using_quotes'&gt;How to using quotes&lt;/h2&gt;
+
+&lt;p&gt;Do you know how we do this when you reply a email? Yeap, it is the sameting like you reply a email&lt;/p&gt;
+
+&lt;p&gt;Such as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I was quoted :) &lt;br /&gt;Just the same like you reply a email. &lt;br /&gt;Wow, it is amazing&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id='how_to_using_the_lists'&gt;How to using the LISTS&lt;/h2&gt;
+
+&lt;p&gt;* is a good choice for you.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;list1&lt;/li&gt;
+
+&lt;li&gt;list2&lt;/li&gt;
+
+&lt;li&gt;list3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Or you can directly using someting like this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;first&lt;/li&gt;
+
+&lt;li&gt;second&lt;/li&gt;
+
+&lt;li&gt;three&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id='how_to_show_the_code'&gt;How to show the code&lt;/h2&gt;
+
+&lt;p&gt;If you want to show the code: try using `.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;System.out.println(&amp;quot;Hello World)&lt;/code&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Hello World</title>
