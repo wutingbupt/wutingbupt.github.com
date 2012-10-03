@@ -1,4 +1,4 @@
-Mister Bleigh
+Tim Wu
 =============
 
 This is the Jekyll source for Tim Wu's blog and website, [Tim Wu](http://wutingbupt.github.com/). The template was reused from [Michael Bleigh](https://github.com/mbleigh/mbleigh.github.com/)
