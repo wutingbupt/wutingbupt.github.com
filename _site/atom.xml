@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Mister Bleigh</title>
+ <link href="http://mbleigh.github.com/atom.xml" rel="self"/>
+ <link href="http://www.mbleigh.com/"/>
+ <updated>2012-10-03T14:13:58+08:00</updated>
+ <id>http://www.mbleigh.com/</id>
+ <author>
+   <name>Michael Bleigh</name>
+   <email>mbleigh@mbleigh.com</email>
+ </author>
+ 
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://www.mbleigh.com/2012/10/01/hello-world-myblog.html"/>
+   <updated>2012-10-01T00:00:00+08:00</updated>
+   <id>http://mbleigh.com/2012/10/01/hello-world-myblog</id>
+   <content type="html">Prepre my first post at github :)
+
+
+Wow, it is amazing
+
+This is my first blog using jeklly :)
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First Post</title>
+   <link href="http://www.mbleigh.com/2011/12/31/first-post.html"/>
+   <updated>2011-12-31T00:00:00+08:00</updated>
+   <id>http://mbleigh.com/2011/12/31/first-post</id>
+   <content type="html">&lt;p&gt;This is my first blog&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
